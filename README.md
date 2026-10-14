@@ -42,8 +42,6 @@ A full-stack bus ticket booking platform built with **React, Node.js, Express an
 - Transaction-based booking with seat validation
 - MySQL database integration
 
-👉 [View TripZy](https://github.com/kusumateja16/Bus-Ticket-Booking)
-
 ## 📚 Currently Exploring
 
 - Data Structures & Algorithms
