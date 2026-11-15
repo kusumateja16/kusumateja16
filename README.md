@@ -4,10 +4,6 @@
 
 ### Software Engineering • Backend Development • Full Stack Development
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kusumateja16&label=Profile%20Views&color=0e75b6&style=flat)
-
 </div>
 
 ---
